@@ -1,0 +1,21 @@
+BasedOnStyle:  Microsoft
+
+# AlignConsecutiveAssignments: true
+# AlignConsecutiveDeclarations: true
+# AllowAllArgumentsOnNextLine: true
+
+AllowShortBlocksOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+
+
+IndentCaseLabels: true
+IndentCaseBlocks: true
+IndentGotoLabels: true
+
+KeepEmptyLinesAtTheStartOfBlocks: false
+
+ColumnLimit: 100
+
+IndentPPDirectives: BeforeHash
+AlignAfterOpenBracket: Align
